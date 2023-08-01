@@ -1,5 +1,5 @@
 # startUp_website build on Vue.js along with Laravel 10.
-StartUp-website is a corporate website I built on Laravel and Vue Js 3. According to the framework's structure, the frontend develop in Vue Js 3 Framework and the backend developed in Laravel called by API. This Website is developed in Vue.js along with Laravel 10. For the user interface I used vue.js and for data handling, I used Laravel 10. For security purpose, I used login authentication in the Admin panel.
+StartUp-website is a corporate website I built on Laravel and Vue Js 3. According to the framework's structure, The Frontend is developed on VueJs 3 and the Backend is developed on Laravel 10 using API request. This Website is developed in Vue.js along with Laravel 10. For the user interface, I used vue.js and for data handling, I used Laravel 10. For security purposes, I used login authentication in the Admin panel.
 
 
 ## Deployment
