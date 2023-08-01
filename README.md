@@ -15,7 +15,20 @@ A website run with the database
 email:sharmin@email.com
 password:12345
 ```
-
 ## 🛠 Skills
-I'm Sharmin Akter. I'm a full-stack developer... My Skills are...
-PHP, Laravel, Codeigniter3, Vue.js, React Js, Angular6, JavaScript, Jquery, MySQL, Ajax, WordPress theme development, WordPress Plugin development, Bootstrap, Html5, CSS3
+I'm Sharmin Akter.I'm a full stack developer... My Skills are....
+- PHP
+- Laravel 
+- Codeigniter3 
+- Vue.Js 
+- React Js 
+- Angular6 -
+- JavaScript 
+- Jquery 
+- MySQL
+- Ajax 
+- WordPress theme development
+-  WordPress Plugin development
+- Bootstrap
+- Html5
+- CSS3
